@@ -5,3 +5,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 -Creates hidden .git folder for version history. We need it to track the files contained
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-Value is uncertain at this point. Will the staging area be useful after the initial commit?
