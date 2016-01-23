@@ -7,3 +7,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -Value is uncertain at this point. Will the staging area be useful after the initial commit?
+
+How can you use the staging area to make sure you have one commit per logical change?
+-The staging area allows you to review changes before the commit is made.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-branches would be very useful when multiple people are working on deiffent aspects of a project.
+
